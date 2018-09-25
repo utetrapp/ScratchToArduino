@@ -1,3 +1,7 @@
+[![npm package name](https://img.shields.io/npm/l/:package.svg)](https://www.npmjs.com/package/scratchtoserialserver)
+[![npm alpha version](https://img.shields.io/badge/scratchtoarduinoserver-alpha-blue.svg)](https://www.npmjs.com/package/scratchtoserialserver)
+
+
 # ScratchToSerialServer
 This node servers enables communication between Scratch (2.0 offline editor) and an Arduino - or any other serial enabled device.
 

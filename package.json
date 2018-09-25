@@ -1,13 +1,14 @@
 {
   "name": "scratchtoserialserver",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "node server to enable scratch to communicate via serial interface e.g. arduino",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "author": "Ute Trapp",
-  "license": "ISC",
+  "license": "MIT",
+  "repository": "utetrapp/ScratchToArduino",
   "keywords": [
     "serial",
     "scratch"
