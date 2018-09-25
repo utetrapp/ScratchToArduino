@@ -1,0 +1,9 @@
+{  "extensionName": "Serial",
+   "extensionPort": 3000,
+   "blockSpecs": [
+			[" ", "connect to port %s", "connect"],
+			["", "send serial message: %s", "send"],
+			["r", "get data", "data"],
+	],
+}
+

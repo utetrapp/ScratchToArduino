@@ -1,0 +1,20 @@
+{
+  "name": "scratchtoserialserver",
+  "version": "1.0.0",
+  "description": "node server to enable scratch to communicate via serial interface e.g. arduino",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ute Trapp",
+  "license": "ISC",
+  "keywords": [
+    "serial",
+    "scratch"
+  ],
+  "dependencies": {
+    "express": "^4.16.3",
+    "npm": "^6.4.1",
+    "serialport": "^7.0.2"
+  }
+}
